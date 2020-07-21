@@ -1,6 +1,6 @@
 # mkswap
 
-Shell script to assigning swap space depending on memory resources.
+Shell script for assigning swap space depending on memory resources.
 
 ## Usage
 
